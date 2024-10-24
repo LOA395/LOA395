@@ -25,6 +25,12 @@ Analyzed datasets of LEGO sets using MySQL to explore and visualize different me
 ### 🌍 [Environmental Pollution Analysis in Europe](https://github.com/LOA395/Proyecto-de-Contaminacion-y-Reciclaje-en-Europa)
 Analyzed environmental indicators and compared them with Human Development Index (HDI) across European countries. This project uses Python for data wrangling and visualization to identify correlations between pollution and quality of life.
 
+### 🔍 [Employee Attrition Prediction](https://github.com/LOA395/how_to_prevent_employee_burnout.git)
+Machine learning model to predict employee turnover and analysis of key retention factors.
+
+### ⚖️ [A/B Test Analysis](https://github.com/LOA395/vanguard-ab-test.git)
+Evaluation of a new user interface design through A/B testing, with statistical analysis and Tableau visualizations.
+
 ## 🛠️ Technologies & Tools
 
 - **Programming Languages**: Python, SQL
