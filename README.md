@@ -41,7 +41,7 @@ Here are some of the projects I've worked on that showcase my skills in data sci
 - **Impact**: The analysis revealed a significant improvement in completion rates and a reduction in navigation errors, providing data-driven insights for optimizing the user interface and enhancing client experience.
 - **Technologies**: Python, Tableau, statistical analysis (t-tests, chi-square, Z-test).
 
-### 🎲 [BoardGameMatcher: Find Your Perfect Game]([https://github.com/LOA395/vanguard-ab-test.git](https://github.com/LOA395/GameMatcher.git))
+### 🎲 [BoardGameMatcher: Find Your Perfect Game](https://github.com/LOA395/GameMatcher.git)
 - **Objective**: Develop a personalized board game recommendation application using NLP and machine learning to analyze descriptions, mechanics, and categories of games.
 - **Impact**: Provides accurate recommendations based on user preferences, utilizing advanced embeddings to streamline search functionality and enhance user experience.
 - **Technologies**: Python, Doc2Vec, Pinecone,Power BI, Streamlit, APIs.
