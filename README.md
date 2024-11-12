@@ -16,20 +16,36 @@ I'm a Data Scientist transitioning from a solid background in biology and geneti
 
 Here are some of the projects I've worked on that showcase my skills in data science and analytics:
 
-### 🔓 [Escape Room Game](https://github.com/LOA395/Escape-Room)
-An interactive Python game where players must solve puzzles and unlock rooms to escape. Developed using Python, implementing concepts such as dictionaries, flow control, and error handling.
+### 🔓 [Escape Room Game: A Text-Based Adventure](https://github.com/LOA395/Escape-Room)
+- **Objective**: Design a text-based adventure game where players navigate through different rooms, solve puzzles, and unlock paths to escape from a mysterious house.
+- **Impact**: Developed problem-solving and programming skills by implementing interactive gameplay mechanics and handling complex control flows. The project demonstrates the ability to create engaging experiences using foundational Python concepts.
+- **Technologies**: Python, Jupyter Notebook, dictionaries, functions, loops, and error handling.
 
-### 🧩 [LEGO Data Analysis](https://github.com/LOA395/LEGO_Project)
-Analyzed datasets of LEGO sets using MySQL to explore and visualize different metrics. This project focuses on data extraction, cleaning, and creating meaningful visualizations to understand the popularity and diversity of LEGO pieces over time.
+### 🧩 [LEGO Analytics: Exploring the Evolution of LEGO Sets](https://github.com/LOA395/LEGO_Project)
+- **Objective**: Load and analyze LEGO set data in MySQL to identify trends in colors, themes, and set popularity over time.
+- **Impact**: Enabled insights into the evolution of LEGO themes and consumer preferences, reinforcing skills in database management and data visualization.
+- **Technologies**: Python, MySQL, Pandas, SQLAlchemy, Matplotlib, Seaborn​.
 
-### 🌍 [Environmental Pollution Analysis in Europe](https://github.com/LOA395/Proyecto-de-Contaminacion-y-Reciclaje-en-Europa)
-Analyzed environmental indicators and compared them with Human Development Index (HDI) across European countries. This project uses Python for data wrangling and visualization to identify correlations between pollution and quality of life.
+### 🌍 [Pollution and Recycling in Europe: An Environmental Analysis](https://github.com/LOA395/Proyecto-de-Contaminacion-y-Reciclaje-en-Europa)
+- **Objective**: Analyze data on pollution and recycling in Europe, exploring trends in recycling rates, waste generation, CO2 emissions, and air quality across European countries. The project also examines the relationship between these environmental indicators and the Human Development Index (HDI).
+- **Impact**: Provides insights into environmental trends and helps understand the link between human development and environmental impact, reinforcing data processing and visualization skills.
+- **Technologies**: Python, Pandas, SQL, data visualization tools, Tableau.
 
-### 🔍 [Employee Attrition Prediction](https://github.com/LOA395/how_to_prevent_employee_burnout.git)
-Machine learning model to predict employee turnover and analysis of key retention factors.
+### 🔍 [Employee Attrition Prediction: Enhancing Workforce Retention](https://github.com/LOA395/how_to_prevent_employee_burnout.git)
+- **Objective**: Develop a machine learning model to predict employee attrition, focusing on demographics, job satisfaction, and work environment factors.
+- **Impact**: Achieved a model accuracy of 77%, enabling proactive strategies for improving employee retention and identifying key factors such as job level and work-life balance.
+- **Technologies**: Python, Gradient Boosting, XGBoost, GridSearchCV, data preprocessing, feature selection.
 
-### ⚖️ [A/B Test Analysis](https://github.com/LOA395/vanguard-ab-test.git)
-Evaluation of a new user interface design through A/B testing, with statistical analysis and Tableau visualizations.
+### ⚖️ [A/B Test for UI Redesign: Enhancing User Experience on Vanguard's Platform](https://github.com/LOA395/vanguard-ab-test.git)
+- **Objective**: Conduct an A/B test to evaluate the impact of a new user interface design, featuring a modern layout and contextual prompts, on user completion rates for Vanguard’s platform.
+- **Impact**: The analysis revealed a significant improvement in completion rates and a reduction in navigation errors, providing data-driven insights for optimizing the user interface and enhancing client experience.
+- **Technologies**: Python, Tableau, statistical analysis (t-tests, chi-square, Z-test).
+
+### 🎲 [BoardGameMatcher: Find Your Perfect Game]([https://github.com/LOA395/vanguard-ab-test.git](https://github.com/LOA395/GameMatcher.git))
+- **Objective**: Develop a personalized board game recommendation application using NLP and machine learning to analyze descriptions, mechanics, and categories of games.
+- **Impact**: Provides accurate recommendations based on user preferences, utilizing advanced embeddings to streamline search functionality and enhance user experience.
+- **Technologies**: Python, Doc2Vec, Pinecone,Power BI, Streamlit, APIs.
+
 
 ## 🛠️ Technologies & Tools
 
